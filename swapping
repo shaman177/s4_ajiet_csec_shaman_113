@@ -18,7 +18,7 @@ class Main {
         a=b;
         b=c;
         
-        System.out.println("numbers after sorting : ");
+        System.out.println("numbers after swaping : ");
         System.out.println("no1 = "+a);
         System.out.println("no2 ="+b);
         
